@@ -1,0 +1,5 @@
+CASE_ID,SAMPLE_ID,HLA_TYPE,COMMENT
+example,example,A*23:01:01G,HLA-A*23:01:01G=A*23:01/17
+example,example,A*32:01:01G,HLA-A*32:01:01G=A*32:01/103
+example,example,B*81:01:01G,HLA-B*81:01:01G=B*81:01/02
+example,example,B*81:01:01G,HLA-B*81:01:01G=B*81:01/02
